@@ -411,10 +411,6 @@ footer {
 
 @media only screen and (max-width: 360px) {
 
-    body {
-        background: green;
-    }
-    
     .brand h1 {
         font-size: 4rem;
     }
@@ -443,9 +439,6 @@ footer {
 
 @media only screen and (max-width: 415px) {
 
-    body {
-        background: green;
-    }
 
     input {
         width: 22rem;
@@ -516,10 +509,6 @@ footer {
 
 @media only screen and (min-width: 500px) {
 
-    body {
-        background: yellowgreen;
-    }
-
     input {
         width: 28rem;
     }
@@ -547,10 +536,6 @@ footer {
 
 
 @media only screen and (min-width: 600px) {
-
-    body {
-        background: yellowgreen;
-    }
 
     input {
         width: 28rem;
